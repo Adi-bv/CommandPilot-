@@ -1,6 +1,6 @@
 # CommandPilot
 
-**CommandPilot** is a command-line tool with a twist—it brings Google’s Generative AI right to your terminal, translating your natural language queries into Linux commands. Think of it as your terminal's very own genie! Instead of memorizing complex Linux commands, just ask AIbot (our helpful built-in assistant) for what you need in plain English! For example, you could type, "AIbot how do I create a new directory?"—and AIbot will instantly provide the correct Linux command. Say goodbye to hunting down commands and hello to having a personal command wizard at your fingertips! ✨
+**CommandPilot** is a command-line tool with a twist—it brings Google’s Generative AI right to your terminal, translating your natural language queries into Linux commands. Think of it as your terminal's very own genie! Instead of memorizing complex Linux commands, just ask AIbot (our helpful built-in assistant) for what you need in plain English! For example, you could type, "AIbot how do I create a new directory?"—and AIbot will instantly provide the correct Linux command. No more switching to ChatGPT for command help; simply ask your terminal, the place you’re ready to execute it! Say goodbye to hunting down commands and hello to having a personal command wizard at your fingertips! ✨
 
 ## Features
 
