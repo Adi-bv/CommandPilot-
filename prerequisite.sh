@@ -10,15 +10,15 @@ if [[ ! -f "$AIBOT_PATH" ]]; then
 fi
 
 # Add alias to .bashrc if it doesn't already exist
-if ! grep -q "alias AIbot='node $AIBOT_PATH'" ~/.bashrc; then
-    echo "Adding alias for AIbot to .bashrc"
-    echo "alias AIbot='node $AIBOT_PATH'" >> ~/.bashrc
+if ! grep -q "alias aibot='node $AIBOT_PATH'" ~/.bashrc; then
+    echo "Adding alias for aibot to .bashrc"
+    echo "alias aibot='node $AIBOT_PATH'" >> ~/.bashrc
 else
-    echo "Alias for AIbot already exists in .bashrc"
+    echo "Alias for aibot already exists in .bashrc"
 fi
 
 # Reload the .bashrc file to apply changes
 echo "Reloading .bashrc to apply changes..."
 source ~/.bashrc
 
-echo "Setup completed successfully! You can now use the AIbot alias in your terminal."
+echo "Setup completed successfully! You can now use the aibot alias in your terminal."

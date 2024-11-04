@@ -95,5 +95,5 @@ console.log(query);
 if (query) {
   getGeminAiResponse(query);
 } else {
-  console.log("Please enter a query after 'AIbot'");
+  console.log("Please enter a query after 'aibot'");
 }
