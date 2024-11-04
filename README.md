@@ -37,11 +37,17 @@ To set up CommandPilot on your machine, follow these steps:
    ```bash
    bash prerequisite.sh
    ```
+   ```bash
+   source ~/.bashrc
+   ```
 
 ### 3. Run the Requirements Installation Script
    This step ensures that Node.js and all required dependencies, including @google/generative-ai, are installed on the new machine.
    ```bash
    bash install_requirements.sh
+   ```
+   ```bash
+   source ~/.bashrc
    ```
 
 ### 4. Using the CommandPilot Feature
