@@ -27,6 +27,8 @@ To set up CommandPilot on your machine, follow these steps:
    - Using **SSH**:
      ```bash
      git clone git@github.com:Adi-bv/CommandPilot-.git
+     ```
+     ```bash
      cd CommandPilot-  # Move to the downloaded repository
      ```
 
