@@ -25,7 +25,7 @@ To set up the CommandPilot on your machine, follow these steps:
    cd CommandPilot-  //Move to the downloaded repository
 
 2. **Run the Prerequisite Script**:
-   The prerequisite script will set up an alias to use the CommandPilot feature from anywhere in the terminal.
+   The prerequisite script will set up an alias to use the CommandPilot feature from anywhere in the terminal.\n
    bash prerequisite.sh
 
 3. **Run the Requirements Installation Script**:
