@@ -53,6 +53,6 @@ To set up CommandPilot on your machine, follow these steps:
 ### 4. Using the CommandPilot Feature
    Once setup is complete, you can use the CommandPilot feature by typing the following in the terminal:
    ```bash
-   AIbot How do I create a new directory?
+   aibot How do I create a new directory?
    ```
-   Note: You can ask any query, but it should start with the term 'AIbot'.
+   Note: You can ask any query, but it should start with the term 'aibot'.
